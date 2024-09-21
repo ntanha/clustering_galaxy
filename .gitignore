@@ -1,0 +1,15 @@
+2point_data/
+dd_less40/
+fits/
+histograms/
+mst_stat/
+plots/
+position_less40/
+positions/
+report/
+seamus_scripts/
+*.pyc
+*.out
+*.so
+
+
